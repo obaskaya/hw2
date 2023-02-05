@@ -3,5 +3,7 @@
 <h3>> Added Custom Exception Middleware </br>
 > Added Fake Data </br>
 > Added Extension </br>
-> Added Logger Services</br>
-> Added Validators
+> Added Validators </br>
+> Added Logger Services using DI Containers</br>
+> Added Model Validations
+> Added Auto Mapper
